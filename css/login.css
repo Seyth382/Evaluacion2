@@ -13,7 +13,7 @@ section{
     align-items: center;
     width: 100%;
     min-height: 100vh;
-    background: url(/login_img/IMG-20240405-WA0024.jpg) no-repeat;
+    background: url(/Evaluacion2/login_img/IMG-20240405-WA0024.jpg) no-repeat;
     background-position: center;
     background-size: cover;
 
@@ -187,3 +187,7 @@ button :hover{
   .closebtn:hover {
     color: black;
   }
+.Registrar{
+    text-align: center;
+    color: #fff;
+}
