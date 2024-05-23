@@ -73,11 +73,13 @@ footer{
 
 .help{
     height: 35px;
+    padding-left: 2%;
     
 }
 
 .ig{
     height: 50px;
+    margin: 5%;
 }
 
 .causa{
@@ -90,12 +92,13 @@ footer{
     
     .column {
       width: 33.33%;
-      padding: 10px; /* Adjust padding as needed */
+      padding: 10px; 
     }
     
     .row {
       display: flex;
       flex-wrap: wrap;
+      margin: 5%;
     }
     
     .row:after {
@@ -110,4 +113,4 @@ footer{
         height: 100%;
         padding-right: 10%;
     }
-    
+  
